@@ -13,7 +13,7 @@ export const paintProducts = [
     dryingTime: '2-4 horas',
     application: 'Paredes internas',
     price: 89.90,
-    image: 'https://via.placeholder.com/300x400?text=Tinta+Acrílica+Branca',
+    image: '/images/tinta_branca.jpg', // Caminho atualizado
     features: [
       'Cobertura excelente',
       'Secagem rápida',
@@ -36,7 +36,7 @@ export const paintProducts = [
     dryingTime: '3-5 horas',
     application: 'Paredes internas e externas',
     price: 125.50,
-    image: 'https://via.placeholder.com/300x400?text=Tinta+Látex+Cinza',
+    image: '/images/tinta_cinza.jpg', // Caminho atualizado
     features: [
       'Resistência ao mofo',
       'Proteção UV',
@@ -59,7 +59,7 @@ export const paintProducts = [
     dryingTime: '6-8 horas',
     application: 'Móveis, portas, janelas',
     price: 45.90,
-    image: 'https://via.placeholder.com/300x400?text=Tinta+Esmalte+Azul',
+    image: '/images/tinta_azul.jpg', // Caminho atualizado
     features: [
       'Acabamento brilhante',
       'Excelente aderência',
@@ -82,7 +82,7 @@ export const paintProducts = [
     dryingTime: '2-3 horas',
     application: 'Paredes internas',
     price: 98.50,
-    image: 'https://via.placeholder.com/300x400?text=Tinta+Acrílica+Vermelha',
+    image: '/images/tinta_vermelha.jpg', // Caminho atualizado
     features: [
       'Cores vibrantes',
       'Cobertura uniforme',
@@ -105,7 +105,7 @@ export const paintProducts = [
     dryingTime: '24 horas',
     application: 'Pisos industriais, garagens',
     price: 189.90,
-    image: 'https://via.placeholder.com/300x400?text=Tinta+Epóxi+Cinza',
+    image: '/images/tinta_epoxi.jpg', // Caminho atualizado
     features: [
       'Resistência química',
       'Dureza extrema',
@@ -128,7 +128,7 @@ export const paintProducts = [
     dryingTime: '2-4 horas',
     application: 'Paredes internas',
     price: 85.90,
-    image: 'https://via.placeholder.com/300x400?text=Tinta+Acrílica+Bege',
+    image: '/images/tinta_bege.jpg', // Caminho atualizado
     features: [
       'Cor neutra versátil',
       'Cobertura excelente',
