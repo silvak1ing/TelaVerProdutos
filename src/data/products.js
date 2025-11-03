@@ -1,0 +1,140 @@
+export const paintProducts = [
+  {
+    id: 1,
+    name: 'Tinta Acrílica Premium Branca',
+    brand: 'Suvinil',
+    description: 'Tinta acrílica de alta qualidade para ambientes internos, com excelente cobertura e acabamento uniforme.',
+    color: 'Branco',
+    colorHex: '#FFFFFF',
+    type: 'Acrílica',
+    finish: 'Fosco',
+    yield: '10-12 m²/L',
+    volume: '18L',
+    dryingTime: '2-4 horas',
+    application: 'Paredes internas',
+    price: 89.90,
+    image: 'https://via.placeholder.com/300x400?text=Tinta+Acrílica+Branca',
+    features: [
+      'Cobertura excelente',
+      'Secagem rápida',
+      'Fácil aplicação',
+      'Baixo odor',
+      'Resistente à lavagem'
+    ]
+  },
+  {
+    id: 2,
+    name: 'Tinta Látex Cinza Claro',
+    brand: 'Coral',
+    description: 'Tinta látex para ambientes internos e externos, oferece proteção duradoura contra intempéries.',
+    color: 'Cinza Claro',
+    colorHex: '#D3D3D3',
+    type: 'Látex',
+    finish: 'Acetinado',
+    yield: '8-10 m²/L',
+    volume: '20L',
+    dryingTime: '3-5 horas',
+    application: 'Paredes internas e externas',
+    price: 125.50,
+    image: 'https://via.placeholder.com/300x400?text=Tinta+Látex+Cinza',
+    features: [
+      'Resistência ao mofo',
+      'Proteção UV',
+      'Impermeável',
+      'Durabilidade prolongada',
+      'Fácil limpeza'
+    ]
+  },
+  {
+    id: 3,
+    name: 'Tinta Esmalte Sintético Azul',
+    brand: 'Metalatex',
+    description: 'Tinta esmalte sintético com brilho intenso, ideal para móveis e superfícies que necessitam de proteção extra.',
+    color: 'Azul Marinho',
+    colorHex: '#000080',
+    type: 'Esmalte Sintético',
+    finish: 'Brilho',
+    yield: '12-14 m²/L',
+    volume: '900mL',
+    dryingTime: '6-8 horas',
+    application: 'Móveis, portas, janelas',
+    price: 45.90,
+    image: 'https://via.placeholder.com/300x400?text=Tinta+Esmalte+Azul',
+    features: [
+      'Acabamento brilhante',
+      'Excelente aderência',
+      'Resistência ao desgaste',
+      'Proteção contra oxidação',
+      'Longa durabilidade'
+    ]
+  },
+  {
+    id: 4,
+    name: 'Tinta Acrílica Vermelha Vibrante',
+    brand: 'Sherwin-Williams',
+    description: 'Tinta acrílica com pigmentação intensa, perfeita para criar ambientes vibrantes e acolhedores.',
+    color: 'Vermelho Vibrante',
+    colorHex: '#FF0000',
+    type: 'Acrílica',
+    finish: 'Fosco',
+    yield: '9-11 m²/L',
+    volume: '18L',
+    dryingTime: '2-3 horas',
+    application: 'Paredes internas',
+    price: 98.50,
+    image: 'https://via.placeholder.com/300x400?text=Tinta+Acrílica+Vermelha',
+    features: [
+      'Cores vibrantes',
+      'Cobertura uniforme',
+      'Resistência à decoloração',
+      'Acabamento profissional',
+      'Fácil aplicação'
+    ]
+  },
+  {
+    id: 5,
+    name: 'Tinta Epóxi Cinza Industrial',
+    brand: 'Eucatex',
+    description: 'Tinta epóxi de dois componentes para pisos e superfícies industriais, com alta resistência química.',
+    color: 'Cinza Industrial',
+    colorHex: '#808080',
+    type: 'Epóxi',
+    finish: 'Brilho',
+    yield: '6-8 m²/L',
+    volume: '3.6L',
+    dryingTime: '24 horas',
+    application: 'Pisos industriais, garagens',
+    price: 189.90,
+    image: 'https://via.placeholder.com/300x400?text=Tinta+Epóxi+Cinza',
+    features: [
+      'Resistência química',
+      'Dureza extrema',
+      'Fácil limpeza',
+      'Resistência ao óleo',
+      'Acabamento profissional'
+    ]
+  },
+  {
+    id: 6,
+    name: 'Tinta Acrílica Bege Neutro',
+    brand: 'Suvinil',
+    description: 'Tinta acrílica neutra e versátil, combina com qualquer estilo de decoração e ambientes.',
+    color: 'Bege Neutro',
+    colorHex: '#F5F5DC',
+    type: 'Acrílica',
+    finish: 'Fosco',
+    yield: '10-12 m²/L',
+    volume: '18L',
+    dryingTime: '2-4 horas',
+    application: 'Paredes internas',
+    price: 85.90,
+    image: 'https://via.placeholder.com/300x400?text=Tinta+Acrílica+Bege',
+    features: [
+      'Cor neutra versátil',
+      'Cobertura excelente',
+      'Secagem rápida',
+      'Resistência à lavagem',
+      'Acabamento uniforme'
+    ]
+  }
+];
